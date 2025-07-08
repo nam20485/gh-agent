@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="agent/agent.ApiService/agent.ApiService.csproj" />
+  <Project Path="agent/agent.AppHost/agent.AppHost.csproj" Id="2696b27d-2e8b-4cb9-bb76-856f8e1ec0e3" />
+  <Project Path="agent/agent.ServiceDefaults/agent.ServiceDefaults.csproj" />
+  <Project Path="agent/agent.Tests/agent.Tests.csproj" />
+  <Project Path="agent/agent.Web/agent.Web.csproj" />
+</Solution>
